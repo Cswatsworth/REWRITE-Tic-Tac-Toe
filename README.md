@@ -1,1 +1,1 @@
-# REWRITE-Tic-Tac-Toe
+Rewriting tic tac toe, left off at checking for a winner. Better understanding of variables, classes, and objects.
